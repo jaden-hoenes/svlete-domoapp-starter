@@ -1,0 +1,10 @@
+{
+  "name": "Svelte Domo App",
+  "version": "0.0.1",
+  "size": {
+    "width": 1,
+    "height": 1
+  },
+  "mapping": [],
+  "fileName": "manifest.json"
+}
