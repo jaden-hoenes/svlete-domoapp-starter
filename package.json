@@ -12,6 +12,7 @@
   "devDependencies": {
     "@domoinc/ryuu-proxy": "^4.3.1",
     "@domoinc/create-proxy": "^1.0.0",
+    "daisyui": "^2.6.3",
     "@sveltejs/vite-plugin-svelte": "^1.0.0-next.30",
     "@tsconfig/svelte": "^2.0.1",
     "autoprefixer": "^10.4.2",
@@ -26,6 +27,5 @@
     "vite": "^2.8.0"
   },
   "dependencies": {
-    "daisyui": "^2.6.3"
   }
 }
